@@ -3,3 +3,4 @@ requests
 beautifulsoup4
 playwright
 # playwright install chromium
+boto3
